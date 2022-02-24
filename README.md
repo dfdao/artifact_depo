@@ -1,1 +1,3 @@
-# artifact_depo
+# Artifact Depo
+
+Plugin for gifting artifacts to dfdao
